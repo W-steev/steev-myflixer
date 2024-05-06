@@ -7,7 +7,7 @@ body{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .background-container{ 
-  background-image: url(/images/batman-background.jpg);
+  background-image: url('../images/batman-background.jpg');
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
